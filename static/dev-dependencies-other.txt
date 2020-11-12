@@ -1,0 +1,16 @@
+concurrently
+eslint
+http-server
+jsdoc
+jsdom
+mocha
+prettier
+rollup
+rollup-plugin-copy
+rollup-plugin-terser
+rollup-watch
+should
+source-map-support
+tape
+uglify-js
+yarn

@@ -1,9 +1,12 @@
+require("phylotree");
+require("phylotree.css");
 /*
 A MUST: tags existing in results.html that import data from RESULTS, for example:
  <span hidden id="show2">{{data}}</span>
 */
-// ALL VARIABLES  COME FROM FLASK :
-//https://stackoverflow.com/questions/42499535/passing-a-json-object-from-flask-to-javascript
+function dotextbox(){
+    return alert("notok")
+}
 
 // ===== show in textarea the output parameters:
 function paramsResults(){
