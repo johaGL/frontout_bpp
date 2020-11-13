@@ -4,9 +4,6 @@ require("phylotree.css");
 A MUST: tags existing in results.html that import data from RESULTS, for example:
  <span hidden id="show2">{{data}}</span>
 */
-function dotextbox(){
-    return alert("notok")
-}
 
 // ===== show in textarea the output parameters:
 function paramsResults(){
